@@ -37,7 +37,7 @@ Following a project-based roadmap toward Full Stack development:
 
 I bring an engineering mindset from electronics into software: I value understanding 
 *why* something works, not just copying what works. Every project here is built 
-by reading documentation, debugging real errors, and iterating — not by copy-pasting solutions..
+by reading documentation, debugging real errors, and iterating — not by copy-pasting solutions.
 
 ## Connect
 
